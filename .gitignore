@@ -1,0 +1,6 @@
+Thumbs.db            
+.venv/               
+*.log
+.vscode/            
+.idea/               
+.env                 
